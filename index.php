@@ -38,9 +38,5 @@
             <button type="button"><a href="C7/index.php">Chapter 07</a></button>
         </section>
         <br>
-        <section>
-            <button type="button"><a href="C8/index.php">Chapter 08</a></button>
-        </section>
-        
     </body>
 </html>
