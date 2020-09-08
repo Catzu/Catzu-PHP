@@ -15,7 +15,7 @@
         </section>
         <br>
         <section>
-            <button type="button"><a href="">PHP Y2</a></button>
+            <button type="button"><a href="PHPY2/index.php">PHP Y2</a></button>
         </section>
         <br>
     </body>
