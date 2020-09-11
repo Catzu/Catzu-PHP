@@ -10,11 +10,11 @@
         </section>
     <body>
         <section>
-            <button type="button"><a href="bomen.php">Task 1: bomen</a></button>
+            <button type="button"><a href="bomen.php">Task 1: Bomen</a></button>
         </section>
         <br>
         <section>
-            <button type="button"><a href="PHPCL/C2/index.php">Task 2: </a></button>
+            <button type="button"><a href="aap.php">Task 2: Aap</a></button>
         </section>
         <br>
         <section>
